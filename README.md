@@ -1,2 +1,3 @@
 # web-flux-reactive
 Application de gestion de transaction boursiere des societes.
+Chaque seconde les données reçues s'affiche sur le charte instantanement...
